@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @TOPSsergey
-
-
-
-
-- 👀 I’m interested in ...
+- 👀 I’m interested in listening to music, watch anime, sports,
 - 🌱 I’m currently learning  html, css, encode and recode video files.
 - My hobby is anime themes, design, anime downloads and stuff like that.
 
